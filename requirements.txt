@@ -3,4 +3,4 @@ pypandoc==1.4
 PyQt5==5.14.1
 PyQt5-sip==12.7.1
 PyQtWebEngine==5.14.0
-python-dotenv==0.12.0
+python-dotenv==1.2.2
