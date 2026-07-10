@@ -1,4 +1,4 @@
-mistune==0.8.4
+mistune==3.3.0
 pypandoc==1.4
 PyQt5==5.14.1
 PyQt5-sip==12.7.1
